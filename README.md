@@ -1,5 +1,7 @@
 # Simple Drum Kit - JavaScript DOM Manipulation 🔊
 
+[▶️ **Play Live Demo Here**](https://yxp23.github.io/drum-kit/)
+
 ## 💡 Overview
 
 This is an interactive web-based drum kit that allows users to play drum sounds by clicking the on-screen buttons or by pressing corresponding keys on the keyboard.
